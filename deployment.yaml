@@ -24,7 +24,7 @@ spec:
     spec:
       containers:
         - name: weather-app
-          image: merongelbard/weather-app-gunicorn:1.4.0
+          image: merongelbard/weather-app-gunicorn:1.5.0
           ports:
             - containerPort: 8080
 

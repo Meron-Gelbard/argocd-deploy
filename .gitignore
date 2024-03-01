@@ -1,0 +1,13 @@
+*
+!*.md
+!*/
+!*.yaml
+!*.yml
+!.gitignore
+!*.sh
+
+.idea
+.DS_Store
+/shelf/
+/workspace.xml
+/venv
